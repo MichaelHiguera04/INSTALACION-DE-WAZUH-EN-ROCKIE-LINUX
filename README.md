@@ -16,3 +16,7 @@ Estos datos se envían al servidor de Wazuh, donde se procesan y se comparan con
 Si se detecta una posible amenaza, Wazuh envía una alerta al administrador del sistema,
 quien puede tomar medidas para mitigar el problema. Además, Wazuh cuenta con un sistema de correlación de eventos que permite identificar patrones de comportamiento anómalos, 
 lo que facilita la detección de amenazas que podrían pasar desapercibidas en una inspección manual.
+
+REQUISITOS BASICOS PARA REALIZAR ESTA INSTALACION...}
+
+
